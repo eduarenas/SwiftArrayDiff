@@ -1,10 +1,3 @@
-//
-//  CollectionDiff.swift
-//  TennisScoring
-//
-//  Created by Eduardo Arenas on 1/1/17.
-//  Copyright © 2017 eapdev. All rights reserved.
-//
 
 import Foundation
 
