@@ -5,7 +5,6 @@
 //  Licensed Under MIT. See https://github.com/eduarenas/SwiftArrayDiff/blob/master/LICENSE.
 //
 import XCTest
-@testable import TennisScoring
 
 class ArrayDiffTests: XCTestCase {
 
