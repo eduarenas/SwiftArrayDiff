@@ -1,3 +1,9 @@
+//
+//  ArrayDiff.swift
+//
+//  Created by Eduardo Arenas on 10/16/16.
+//  Licensed Under MIT. See https://github.com/eduarenas/SwiftArrayDiff/blob/master/LICENSE.
+//
 
 import Foundation
 
