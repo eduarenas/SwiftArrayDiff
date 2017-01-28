@@ -1,7 +1,7 @@
 //
 //  ArrayDiff.swift
 //
-//  Created by Eduardo Arenas on 10/16/16.
+//  Created by Eduardo Arenas on 1/1/17.
 //  Licensed Under MIT. See https://github.com/eduarenas/SwiftArrayDiff/blob/master/LICENSE.
 //
 
